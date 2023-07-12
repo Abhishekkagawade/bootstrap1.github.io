@@ -98,6 +98,6 @@ body {
     transition: cubic-bezier(0.215, 0.610, 0.355, 1);
 }
 
-button:hover {
+#button1 {
     background-color: lime;
 }
